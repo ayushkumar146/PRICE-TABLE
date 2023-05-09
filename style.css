@@ -1,0 +1,64 @@
+body{
+    background-image: url("https://www.bruker.com/en/products-and-solutions/diffractometers-and-x-ray-microscopes/x-ray-diffractometers/diffrac-suite-software/diffrac-texture/_jcr_content/root/herostage/backgroundImageVPL.coreimg.82.1280.jpeg/1676908722473/xrd-texture-software-backgroundimage.jpeg");
+    
+    
+}
+.tt{
+   display: flex;
+   height: 70vh;
+   width: 50vw;
+   align-items: stretch;
+   justify-content: space-evenly;
+   margin-top:16vh ;
+   margin-left: 25vw;
+}
+.t1{
+    background-color: aquamarine;
+    background-image: url("https://i0.wp.com/aapkapainter.com/blog/wp-content/uploads/2017/04/alternative.jpg?fit=640%2C360&ssl=1");
+    width: 12.5vw;
+    border-radius: 2rem;
+}
+.t2{
+    background-color: rgb(146, 255, 127);
+    background-image: url("https://i0.wp.com/aapkapainter.com/blog/wp-content/uploads/2017/04/alternative.jpg?fit=640%2C360&ssl=1");
+    width: 12.5vw;
+    border-radius: 2rem;
+    
+}
+.t3{
+    background-color: rgb(74, 218, 139);
+    background-image: url("https://i0.wp.com/aapkapainter.com/blog/wp-content/uploads/2017/04/alternative.jpg?fit=640%2C360&ssl=1");
+    width: 12.5vw;
+    border-radius: 2rem;
+}
+.t11{
+    display: flex;
+    flex-direction: column;
+    height: 15vh;
+    background-image: url("https://media.istockphoto.com/id/1318101781/photo/stone-black-texture-background-dark-cement-wall.jpg?s=612x612&w=0&k=20&c=h87_5thp2Vzuyq6ys0tfLlPn7HJACkVRaHVn8h9Tiok=");
+    color: blueviolet;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2rem 2rem 0rem 0rem;
+    background-color: blanchedalmond;
+    margin-top: 0vh;
+    margin-left: 0vw;
+}
+.h3{
+    width: 9vw;
+    color: chartreuse;
+    border-width: 19;
+   background-color: rgb(47, 255, 0);
+}
+.t12{
+    display: flex;
+    color: rgb(43, 55, 226);
+    background-color:rgba(243, 240, 255, 0.333);
+height:51.5vh ;
+font-size: 19px;
+    border-radius: 0 0 2rem 2rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 17px;
+}
